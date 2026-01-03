@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning about AI and ML<br>🏫 I'm a Computer Science major at Carleton University<br>⚡ I'm also interested in Web, Backend, and Network Development
+🌱 I'm currently learning about AI and ML<br>🏫 I'm a Computer Science major<br>⚡ I'm also interested in Web, Backend, and Network Development
 
 
 # 💻 Tech Stack:
