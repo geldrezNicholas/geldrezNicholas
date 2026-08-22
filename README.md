@@ -1,5 +1,5 @@
 # About Me:
-swe @ Nokia\
+SWE @ Nokia\
 Honours CS @ CU
 
 
